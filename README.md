@@ -1,3 +1,5 @@
+<div align="center"><img src="./icon.png" /></div>
+
 # San workflow
 San workflow is created using React Flow, a library for building node-based applications.
 The aim of the workflow is to show the diagram on how the data is being process within the application.
